@@ -6,3 +6,5 @@ My first change on the repository.
 Pull and first changes.
 
 pull and second change.
+
+GitTest.
